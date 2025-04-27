@@ -74,15 +74,10 @@ Star this repo (we track engagement)
 DM on Twitter @Sknyecamp with:
 
 plaintext
-/Ethux Interest: [Your GitHub] + "I'll automate transformation"
+/Ethux Interest: next-gen-ai-saas + "I'll automate transformation"
 📜 License
 Confidential. All rights reserved.
 
 
-### **Key Engineering Hooks:**
-1. **Code Snippets** → Shows technical depth (not just theory).  
-2. **AI/ML Stack** → Attracts engineers who want to work on cutting-edge systems.  
-3. **Simulation Focus** → Appeals to systems thinkers (rare in consulting).  
-4. **Equity Emphasis** → Filters for risk-tolerant builders.  
 
 
